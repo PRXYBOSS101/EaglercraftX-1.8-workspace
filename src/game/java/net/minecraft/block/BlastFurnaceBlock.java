@@ -21,8 +21,8 @@ import net.minecraft.util.BlockPos;
 import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumParticleTypes;
 import net.minecraft.world.World;
-import net.minecraft.world.level.block.AbstractFurnaceBlock;
-
+import net.minecraft.block.AbstractFurnaceBlock;
+import net.minecraft.entity.BlastFurnaceBlockEntity;
 /**+
  * This portion of EaglercraftX contains deobfuscated Minecraft 1.8 source code.
  * 
